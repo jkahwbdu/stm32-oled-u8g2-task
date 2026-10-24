@@ -1,0 +1,37 @@
+# Keil MDK build output
+MDK-ARM/OLED_U8g2_Task/
+MDK-ARM/DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.dep
+*.lnp
+*.sct
+*.iex
+*.build_log.htm
+build.log
+
+# Keil per-user settings / backups
+*.uvguix.*
+*.uvoptx
+*.bak
+
+# Generated / temporary files
+dist/
+docs/_check/
+docs/_final/
+docs/_pages/
+docs/STM32_OLED_U8g2实验报告.html
+__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
